@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+h1{
+    display: block;
+    block-size: 95vh;
+    margin: 0;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 300%;
+}
+.Morning{
+    background-image: url('./imgs/morning.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: black;
+}
+.Afternoon{
+    background-image: url('./imgs/afternoon.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: black;
+}
+.Evening{
+    background-image: url('./imgs/evening.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: white;
+}
+.Night{
+    background-image: url('./imgs/night.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: white;
+}
+footer{
+    display: block;
+    margin:0;
+    block-size: 3vh;
+    text-align: center;
+    color: white;
+    font-family: cursive;
+}
