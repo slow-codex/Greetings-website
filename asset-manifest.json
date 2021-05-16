@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Greetings-website/static/css/main.7d2608cf.chunk.css",
+    "main.js": "/Greetings-website/static/js/main.fa89f2e7.chunk.js",
+    "main.js.map": "/Greetings-website/static/js/main.fa89f2e7.chunk.js.map",
+    "runtime-main.js": "/Greetings-website/static/js/runtime-main.bb920f9d.js",
+    "runtime-main.js.map": "/Greetings-website/static/js/runtime-main.bb920f9d.js.map",
+    "static/js/2.cc7d9f1e.chunk.js": "/Greetings-website/static/js/2.cc7d9f1e.chunk.js",
+    "static/js/2.cc7d9f1e.chunk.js.map": "/Greetings-website/static/js/2.cc7d9f1e.chunk.js.map",
+    "index.html": "/Greetings-website/index.html",
+    "static/css/main.7d2608cf.chunk.css.map": "/Greetings-website/static/css/main.7d2608cf.chunk.css.map",
+    "static/js/2.cc7d9f1e.chunk.js.LICENSE.txt": "/Greetings-website/static/js/2.cc7d9f1e.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/Greetings-website/static/media/night.1084f223.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb920f9d.js",
+    "static/js/2.cc7d9f1e.chunk.js",
+    "static/css/main.7d2608cf.chunk.css",
+    "static/js/main.fa89f2e7.chunk.js"
+  ]
+}
